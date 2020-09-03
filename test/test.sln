@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HolaMundoTest", "HolaMundoTest\", "{7284C0E4-C6D6-4241-8C70-C422ADAF1CE2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51213"
+		Debug.AspNetCompiler.PhysicalPath = "HolaMundoTest\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51213\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51213"
+		Release.AspNetCompiler.PhysicalPath = "HolaMundoTest\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51213\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51213"
+		SlnRelativePath = "HolaMundoTest\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7284C0E4-C6D6-4241-8C70-C422ADAF1CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7284C0E4-C6D6-4241-8C70-C422ADAF1CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91CF0224-60C4-4F47-BEB4-947A551791A3}
+	EndGlobalSection
+EndGlobal
